@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3,
+        "course": 3,
+        "type": "news",
+        "name": "Announcements",
+        "intro": "General news and announcements",
+        "IdChannelDiscord": "1044345026823594174"
+    },
+    {
+        "id": 4,
+        "course": 3,
+        "type": "general",
+        "name": "Consultas",
+        "intro": "<p>Este es un foro para que los alumnos puedan consultar sus dudas. Pueden publicar lo que necesiten, responderemos lo mas pronto posible</p>",
+        "IdChannelDiscord": "1044345234714284072"
+    },
+    {
+        "id": 1,
+        "course": 2,
+        "type": "news",
+        "name": "Announcements",
+        "intro": "General news and announcements",
+        "IdChannelDiscord": "1044267896634880121"
+    },
+    {
+        "id": 2,
+        "course": 2,
+        "type": "general",
+        "name": "rodo de prueba",
+        "intro": "<p>este es un foro de prueba en el topic 1</p>",
+        "IdChannelDiscord": "1044267897943498852"
+    }
+]
